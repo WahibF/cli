@@ -60,6 +60,7 @@ const questions = [
     }    
 ]
 
+
 function calc_bmi(gewicht, groesser){
     const height = groesser/100;
     const bmi = gewicht/(height*height);
